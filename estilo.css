@@ -1,0 +1,7 @@
+body{
+    background:#E0FFFF;
+}
+p.vermelho{color:red; text-align:center; font-family:"Courier New"}
+p.azul{color:blue; text-align:right; font-family:"Verdana"}
+p.amarelo{color:yellow; text-align:left}
+.rosa{color:pink;}
